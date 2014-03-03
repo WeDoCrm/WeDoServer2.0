@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeDo_Server", "WeDo_Server.csproj", "{D0F74C5D-74EF-42FE-8257-07DBE2D3FFB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F74C5D-74EF-42FE-8257-07DBE2D3FFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F74C5D-74EF-42FE-8257-07DBE2D3FFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F74C5D-74EF-42FE-8257-07DBE2D3FFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F74C5D-74EF-42FE-8257-07DBE2D3FFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VSStyle = Office2007 (Black).vssf
+		VSTargetControls = FormsAndControls
+		VSToolStripStyle = Mixed
+		VSTextShadow = True
+		VSSkinFlatStyles = True
+		VSSkinToggleButtons = True
+		VSUseSystemFonts = False
+		VSCustomBkgrdPaint = False
+	EndGlobalSection
+EndGlobal
